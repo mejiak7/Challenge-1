@@ -10,3 +10,8 @@ I then added the apporiate alt attributes to the icon and image elements
 I also made sure that the codes fell in sequential order.
 
 After, I then looked over the CSS and there I adjusted some codes, I noticed that alot of the codes were a bit repetitive so I combined all like codes into one single container. 
+
+# Repository Links
+
+https://github.com/mejiak7/Challenge-1
+https://mejiak7.github.io/Challenge-1/
